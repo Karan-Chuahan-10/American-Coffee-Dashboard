@@ -2,7 +2,7 @@
 American Coffee
 
 ## Demo-Link:
-https://public.tableau.com/app/profile/karan.chauhan7021/viz/CRMSalesDashboard/CRMDashboard
+https://github.com/Karan-Chuahan-10/American-Coffee-Dashboard/blob/3dfcd805ed5ac370bfe24c3f118fdb1f13e4ac0c/Power%20Bi%20Dashboard/Coffee%20dashboard.pbix
 
 ## Table of Contents
 [About The Project] (#about—the—project)
@@ -16,7 +16,7 @@ https://public.tableau.com/app/profile/karan.chauhan7021/viz/CRMSalesDashboard/C
 [License] (#license)
 
 ## About The Project
-This repository contains a Tableau dashboard analyzing Computer Hardware Sales Opportunities. Leveraging sales data, this interactive dashboard provides insights into top and least-performing managers, regional revenue, deal outcomes, and sector-specific trends. Whether you're a sales manager, data analyst, or interested in sales performance analytics, this project offers a comprehensive view of sales dynamics within the computer hardware sector. Explore the data, uncover trends, and gain actionable insights to drive improved sales performance and strategic decision-making.
+The American Coffee Dashboard project, created for a Maven Analytics challenge, visualizes coffee industry data in the U.S., analyzing key metrics such as sales trends, regional preferences, and customer demographics. Using SQL, Excel, and Tableau, this interactive dashboard enables users to explore data insights, track market trends, and understand consumer behaviors, providing a comprehensive view of the coffee market landscape.
 
 ## Screenshots
 **Screenshotes** :https://github.com/Karan-Chuahan-10/CRM-Sales-Dashboard/tree/841ebecf6c976a80517d35f08f96b31f92e32ea3/Dashboard%20Screenshots
