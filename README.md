@@ -19,7 +19,7 @@ https://github.com/Karan-Chuahan-10/American-Coffee-Dashboard/blob/3dfcd805ed5ac
 The American Coffee Dashboard project, created for a Maven Analytics challenge, visualizes coffee industry data in the U.S., analyzing key metrics such as sales trends, regional preferences, and customer demographics. Using SQL, Excel, and Tableau, this interactive dashboard enables users to explore data insights, track market trends, and understand consumer behaviors, providing a comprehensive view of the coffee market landscape.
 
 ## Screenshots
-**Screenshotes** :https://github.com/Karan-Chuahan-10/American-Coffee-Dashboard/tree/3776926771a6e3a74ed740c7dc70a1867478bf6a/images
+**Screenshots** :https://github.com/Karan-Chuahan-10/American-Coffee-Dashboard/tree/3776926771a6e3a74ed740c7dc70a1867478bf6a/images
 
 ## Technologies
 - **Microsoft Excel:** Excel is utilized for data preparation tasks such as importing raw data, cleaning and transforming data, and performing preliminary analysis. It provides a familiar and versatile environment for handling structured data efficiently.
