@@ -1,7 +1,8 @@
 ## Project Title
 American Coffee
 
-## Demo-Link:
+## Demo-Link
+:https://github.com/Karan-Chuahan-10/American-Coffee-Dashboard/tree/0470df5da90efff094e31e2084add3c44dec9bdc/Power%20Bi%20Dashboard
 
 
 ## Table of Contents
